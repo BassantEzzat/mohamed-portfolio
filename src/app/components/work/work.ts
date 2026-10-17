@@ -170,10 +170,10 @@ function colsFor(width: number): number {
         opacity: 1;
         transform: none;
       }
-      /* باقي الصور تغمق لما تقفي على صورة */
-      .cols:hover .card:not(:hover) img {
-        filter: brightness(0.55);
-      }
+      // /* باقي الصور تغمق لما تقفي على صورة */
+      // .cols:hover .card:not(:hover) img {
+      //   filter: brightness(0.55);
+      // }
     }
   `,
 })
